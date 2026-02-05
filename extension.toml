@@ -1,0 +1,7 @@
+id = "tokyo-night"
+name = "Tokyo Night"
+version = "0.1.0"
+schema_version = 1
+authors = ["Andrin Haldner <tihn_dev@proton.me>"]
+description = "Tokyo Night Theme for Zed Editor"
+repository = "https://github.com/your-name/my-zed-extension"
