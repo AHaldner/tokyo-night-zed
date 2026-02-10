@@ -172,12 +172,12 @@
             "font_weight": null
           },
           "emphasis": {
-            "color": "#c0caf5",
+            "color": "#f7768e",
             "font_style": "italic",
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#c0caf5",
+            "color": "#f7768e",
             "font_style": null,
             "font_weight": 700
           },
@@ -256,6 +256,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "punctuation.markup": {
+            "color": "#7dcfff",
+            "font_style": null,
+            "font_weight": null
+          },
           "string": {
             "color": "#9ece6a",
             "font_style": null,
@@ -292,7 +297,7 @@
             "font_weight": null
           },
           "title": {
-            "color": "#c0caf5",
+            "color": "#7aa2f7",
             "font_style": null,
             "font_weight": null
           },
